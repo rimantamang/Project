@@ -1,0 +1,26 @@
+print("Welcome to the Student Management System!")
+print("--- Student Management System---")
+Username = input("Username: ")
+Password = input("Password: ")
+
+if Username=="admin" and Password=="admin123":
+    print("Login Successful! Role:Admin")
+    print("1.Add Student")
+    print("2.Delete Student")
+    print("3.Update Marks")
+    print("4.View Students")
+    print("5.Search Students")
+    print("6.Sort Students")
+    print("7.View Topper")
+    print("8.Export to CSV")
+    print("0.Exit")
+    a= input("Select:")
+elif Username=="user" and Password=="user123":
+    print("1.Add Student")
+    print("2.Delete Student")
+    print("3.Update Marks")
+    print("4.View Students")
+    print("0.Exit")
+    u= input("Select:")
+else:
+    print("Invalid Credentials")
