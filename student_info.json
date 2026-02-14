@@ -1,0 +1,14 @@
+{
+    "1": {
+        "Roll no": "1",
+        "Name": "Ankit Limbu",
+        "Marks": 89,
+        "Grade": "B"
+    },
+    "2": {
+        "Roll no": "2",
+        "Name": "Riman Tamang",
+        "Marks": 12,
+        "Grade": "F"
+    }
+}
