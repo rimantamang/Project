@@ -28,7 +28,6 @@ if Username=="admin" and Password=="admin123":
         print("0.Exit")
         a= input("\nSelect:")
         #For adding student
-    while True:    
         if a=='1':
                 roll_no = input("Enter Roll No: ")
                 if roll_no in stud_info:
