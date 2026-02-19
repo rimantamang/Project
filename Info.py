@@ -28,8 +28,8 @@ if Username=="admin" and Password=="admin123":
         print("0.Exit")
         a= input("\nSelect:")
         #For adding student
+    while True:    
         if a=='1':
-            while True:
                 roll_no = input("Enter Roll No: ")
                 if roll_no in stud_info:
                     print(f"Error: Roll No {roll_no} already exists for {stud_info[roll_no]['Name']}.")
