@@ -10,5 +10,17 @@
         "Name": "Sita Kumari",
         "Marks": 89,
         "Grade": "B"
+    },
+    "3": {
+        "Roll no": "3",
+        "Name": "Hari Rai",
+        "Marks": 57,
+        "Grade": "D"
+    },
+    "4": {
+        "Roll no": "4",
+        "Name": "Riman Tamang",
+        "Marks": 78,
+        "Grade": "B"
     }
 }
